@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+header{
+    margin-top: 25px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.flex-container{
+    margin-top: 45px;
+}
